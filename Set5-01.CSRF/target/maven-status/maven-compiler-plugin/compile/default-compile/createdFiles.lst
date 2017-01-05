@@ -1,0 +1,6 @@
+sec\csrf\config\SecurityConfiguration.class
+sec\csrf\domain\Account.class
+sec\csrf\CSRFApplication.class
+sec\csrf\config\CustomUserDetailsService.class
+sec\csrf\controller\AccountController.class
+sec\csrf\repository\AccountRepository.class

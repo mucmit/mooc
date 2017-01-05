@@ -1,0 +1,7 @@
+sec\hackmypassword\config\CustomUserDetailsService.class
+sec\hackmypassword\HackMyPasswordApplication.class
+sec\hackmypassword\controller\DefaultController.class
+sec\hackmypassword\domain\Account.class
+sec\hackmypassword\repository\AccountRepository.class
+sec\hackmypassword\IFiguredItOut.class
+sec\hackmypassword\config\SecurityConfiguration.class

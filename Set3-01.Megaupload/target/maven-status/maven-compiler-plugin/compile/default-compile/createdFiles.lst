@@ -1,0 +1,9 @@
+sec\megaupload\controller\DefaultController.class
+sec\megaupload\controller\FileController.class
+sec\megaupload\config\CustomUserDetailsService.class
+sec\megaupload\domain\FileObject.class
+sec\megaupload\config\SecurityConfiguration.class
+sec\megaupload\MegauploadApplication.class
+sec\megaupload\repository\FileRepository.class
+sec\megaupload\repository\AccountRepository.class
+sec\megaupload\domain\Account.class

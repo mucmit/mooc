@@ -1,0 +1,4 @@
+sec\helloweb\HelloWebWithDatabaseApplication.class
+sec\helloweb\HelloWebWithDatabaseController.class
+sec\helloweb\HelloMessageRepository.class
+sec\helloweb\HelloMessage.class

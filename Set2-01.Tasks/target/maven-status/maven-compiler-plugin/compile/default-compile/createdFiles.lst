@@ -1,0 +1,4 @@
+sec\TaskApplication.class
+sec\controller\DefaultController.class
+sec\controller\TaskController.class
+sec\domain\Task.class

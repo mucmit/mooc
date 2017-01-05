@@ -1,0 +1,12 @@
+sec\domain\Item.class
+sec\EuroShopperApplication.class
+sec\repository\OrderRepository.class
+sec\controller\ItemController.class
+sec\domain\ShoppingCart.class
+sec\controller\DefaultController.class
+sec\domain\OrderItem.class
+sec\domain\Order.class
+sec\controller\OrderController.class
+sec\repository\ItemRepository.class
+sec\controller\CartController.class
+sec\service\OrderService.class
